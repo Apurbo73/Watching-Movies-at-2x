@@ -1,7 +1,6 @@
 ﻿# Watching-Movies-at 2x
 
 
-Here's the C++ code that solves the problem you described:
 
 ---
 
