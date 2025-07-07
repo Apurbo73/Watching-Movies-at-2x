@@ -50,4 +50,3 @@ So, **total time spent** =
 * Remaining 80 minutes at normal speed → takes 80 minutes
 * Total = 10 + 80 = **90 minutes**
 
-Let me know if you'd like the code with comments or in another language!
